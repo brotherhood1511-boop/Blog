@@ -2,6 +2,7 @@ function About() {
 return (
 <aside>
 <h2>About the Trip</h2>
+
 <p>
 I'm Dominick Siciliano, a software development student and Air
 National Guard member preparing for a new chapter in Alaska.
